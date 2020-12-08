@@ -1,4 +1,4 @@
-print("🛠 Bu Script Bedava Deil Paralidir 🛠")
+print("🛠 Bu Script sana girsin Paralidir 🛠")
 
 	while(nil)do;local i={}if(i.i)then;i.i=(i.i(i))end;end
 
