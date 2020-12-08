@@ -5,7 +5,7 @@ print("🛠 Bu Script sana girsin Paralidir 🛠")
 		if os.date("%Y%m%d") >= "20201210" then gg.alert("SCRİPT SÜRESİ DOLDU") return end
 
 		
-PW = gg.prompt({'🔒 ŞİFRE GİR: '},{[1]=''},{[1]='text'})
+PW = gg.prompt({'🔒 ŞİFRE GİR oç: '},{[1]=''},{[1]='text'})
 if not PW then return
 end 
 if PW[1] == "" then gg.alert("DOSTUM ŞİFRE BOŞ! 😂") os.exit() end
