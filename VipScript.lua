@@ -21,7 +21,7 @@ function split(szFullString, szSeparator) local nFindStartIndex = 1 local nSplit
 
 function HOME()
 X1 = gg.multiChoice({
-"[📛]➣ ᴀɴᴛɪʙᴀɴ ʙʀᴜᴛᴀʟ",
+"[📛]➣ BAN YEMEʟ",
 "[📌]➣ ᴄʀᴏssʜᴀɪʀ sᴀʙɪᴛʟᴇ",
 "[🔫]➣ ʜɪᴢʟɪ şᴀʀᴊᴏʀ ᴅᴇɢ̆ɪş",
 "[🧨]➣ sᴇᴋᴍᴇᴍᴇ 80%",
